@@ -306,7 +306,7 @@
 		]
 	},
 	{
-		"project": "go.etcd.io/bbolt",
+		"project": "github.com/etcd-io/bbolt",
 		"licenses": [
 			{
 				"type": "MIT License",

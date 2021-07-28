@@ -26,7 +26,7 @@ import (
 	"go.etcd.io/etcd/pkg/transport"
 	"go.etcd.io/etcd/pkg/types"
 
-	bolt "go.etcd.io/bbolt"
+	bolt "github.com/etcd-io/bbolt"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )

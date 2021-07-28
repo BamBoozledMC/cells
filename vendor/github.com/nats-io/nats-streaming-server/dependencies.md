@@ -17,7 +17,7 @@ This file lists the dependencies used in this repository.
 | github.com/nats-io/stan.go v0.8.1 | Apache License 2.0 |
 | github.com/nats-io/jwt v1.1.0 | Apache License 2.0 |
 | github.com/prometheus/procfs v0.2.0 | Apache License 2.0 |
-| go.etcd.io/bbolt v1.3.5 | MIT |
+| github.com/etcd-io/bbolt v1.3.5 | MIT |
 | golang.org/x/crypto v0.0.0-20201016220609-9e8e0b390897 | BSD 3-Clause "New" or "Revised" License |
 | golang.org/x/sys v0.0.0-20201101102859-da207088b7d1 | BSD 3-Clause "New" or "Revised" License |
 | github.com/armon/go-metrics v0.0.0-20190430140413-ec5e00d3c878 | MIT |

@@ -5265,7 +5265,7 @@
 		},
 		{
 			"checksumSHA1": "C97JA4dedgx1csaW3/Rk/seZs+8=",
-			"path": "go.etcd.io/bbolt",
+			"path": "github.com/etcd-io/bbolt",
 			"revision": "5082d3bbc22e385ea0f7ffa915cb8b2a4efceb59",
 			"revisionTime": "2021-03-24T17:22:49Z"
 		},
